@@ -1,0 +1,1 @@
+ /Users/andrzej.jedrzejewski/PROJECTS/mobile_cool_flutter/.dart_tool/flutter_build/47981df4e8dd6c61cc41391c5e58034c/dart_build_result.json: 
