@@ -2,3 +2,6 @@
 /build/
 /*.apk
 /*.so
+.dart_tool/
+ios/Flutter/Flutter.framework
+macos/Flutter/ephemeral/
